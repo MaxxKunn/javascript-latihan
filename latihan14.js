@@ -11,4 +11,4 @@ function removeFalsy(arr) {
 }
 
 console.log(removeFalsy([0, 1, false, 2, "", 3, null]));
-// [1, 2, 3]
+
